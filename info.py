@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
-SESSION      = ""
-DATABASE_URI = ""
-LOG_CHANNEL  = -1001884373226
-ADMIN        = 1350642629
-CHANNEL      = "@GreyMatter_Bots"
+API_ID       = 28753553
+API_HASH     = "1ea055d51647ae46e1b8cfb49d24b217"
+BOT_TOKEN    = "6866775219:AAEnBmC9kOJC7vOAFKRVYCeILpI602tahOI"
+SESSION      = "BQG2vpEAnr1PBObYWjyV6aHP1opc6CjeQUdOE117xa3hgQNjQWBCfzyQl4G1RATlUBA-CxCfdscx6mu4l32K27cWwbTais1G_QR7rOkH3OgzMDBFL5xUpvIfDkC8-JGLQAmzj6SXiTt9ccUm8eeBuUffzHojJ2l_ILVxVC1CZ0jtOkngoO_wRhyxkl5xoT0yFqdOhtbE_4euXBXJY85mYAXqQ7kid4uFAmI74Hk9yDf20fR40BdaM8SHnmm_KTNCr1ZqBQQFziP_P038lQ5aGAJsOhSvaNdxTlVL30ZoP7v1v1M4q19ZZsCNyNcc9b2fF6nj6IWaWLgHohdlN4AcWFrjwGb7HAAAAAGZSqyzAQ"
+DATABASE_URI = "mongodb+srv://nilayphoolwani:Chiku110011@cluster0.zlrt4w2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+LOG_CHANNEL  = -1002150030822
+ADMIN        = 6569958632
+CHANNEL      = "@TourTeamMain"
